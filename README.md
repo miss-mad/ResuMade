@@ -12,10 +12,10 @@ View a recorded app demo here: [ResuMade Demo](https://drive.google.com/file/d/1
 
 - [License](#license)
 - [Description](#description)
+- [Deployed Application](#deployed-application)
 - [Technologies](#technologies)
 - [User Story](#user-story)
 - [Acceptance Criteria](#acceptance-criteria)
-- [Deployed Application](#deployed-application)
 - [Future Improvements](#future-improvements)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -41,7 +41,7 @@ We offer a simple payment plan of $5.00 USD for each resume created. Payments ar
 
 Heroku: [ResuMade on Heroku](https://resumade.herokuapp.com/)
 
-Github Repository: [ResuMade on Github](https://github.com/PeytonCast/ResuMade)
+Github Repository: [ResuMade on Github](https://github.com/miss-mad/ResuMade)
 
 Demo link: [ResuMade Demo](https://drive.google.com/file/d/1wQ-5BYagqVVCEuI6iPzPxr27yX8iOoFp/view)
 

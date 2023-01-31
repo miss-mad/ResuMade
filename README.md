@@ -1,8 +1,11 @@
 # ResuMade
+
 Not sure how to write a resume or tired of creating your own? Just fill out our questionnaire and we'll do the work for you.
 
+View a recorded app demo here: [ResuMade Demo](https://drive.google.com/file/d/1wQ-5BYagqVVCEuI6iPzPxr27yX8iOoFp/view)
+
 ## License
-  
+
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 ## Table of Contents
@@ -30,10 +33,17 @@ If the downloaded resume is misplaced, we've got that handled as well. Returning
 
 We offer a simple payment plan of $5.00 USD for each resume created. Payments are securely made through Stripe, a payment platform. After each purchase, your resume is available for unlimited downloads.
 
->*"A resume is an important tool for your job search as it offers a page or two where you can display your relevant skills and qualities for a job. Resumes help employers make hiring decisions and help you get your first interview. That's why it matters how you structure your resume and what information you decide to include."* - Indeed.com
+> _"A resume is an important tool for your job search as it offers a page or two where you can display your relevant skills and qualities for a job. Resumes help employers make hiring decisions and help you get your first interview. That's why it matters how you structure your resume and what information you decide to include."_ - Indeed.com
 
-__Disclaimer:__ Our template is specifically made for those seeking employment or advancement in the coding/web development industry. Certain questions within this form would not be applicable to other industries. This website focuses on the resume formatting and content only and does not guarantee job placement or interview scheduling with any company. We hope this helps you!
+**Disclaimer:** Our template is specifically made for those seeking employment or advancement in the coding/web development industry. Certain questions within this form would not be applicable to other industries. This website focuses on the resume formatting and content only and does not guarantee job placement or interview scheduling with any company. We hope this helps you!
 
+## Deployed Application
+
+Heroku: [ResuMade on Heroku](https://resumade.herokuapp.com/)
+
+Github Repository: [ResuMade on Github](https://github.com/PeytonCast/ResuMade)
+
+Demo link: [ResuMade Demo](https://drive.google.com/file/d/1wQ-5BYagqVVCEuI6iPzPxr27yX8iOoFp/view)
 
 ### Motivation
 
@@ -47,9 +57,9 @@ At this time, the resume template is not applicable to industries outside of web
 
 ### What did you learn?
 
-* Some npm packages and versions of those packages created some tangles at times.
-* We got more practice with debugging, especially with the Heroku deployment.
-* Each of us became more knowledgeable about the tool or technology he or she was tasked.
+- Some npm packages and versions of those packages created some tangles at times.
+- We got more practice with debugging, especially with the Heroku deployment.
+- Each of us became more knowledgeable about the tool or technology he or she was tasked.
 
 ### What makes your project stand out?
 
@@ -58,6 +68,7 @@ Our simple, clean design partners with an effective, ready-to-use resume templat
 ## Technologies
 
 ##### Client-Side Dependencies
+
 - Ant Design
 - Apollo Client
 - Bootstrap
@@ -67,6 +78,7 @@ Our simple, clean design partners with an effective, ready-to-use resume templat
 - Stripe
 
 ##### Server-Side Dependencies
+
 - Apollo Server Express
 - bcrypt
 - dotenv
@@ -78,11 +90,13 @@ Our simple, clean design partners with an effective, ready-to-use resume templat
 - Stripe
 
 ##### Dev Dependencies
+
 - Concurrently
 - Nodemon
 - Faker.js
 
 ##### Repository and Deployment
+
 - Github repository
 - Heroku deployment
 
@@ -99,7 +113,7 @@ So that I can focus more attention on other areas of the job search
 GIVEN a resume-building app <br>
 WHEN a user views the homepage, <br>
 THEN they are given the options to login or signup. <br>
-WHEN the user signs up,  <br>
+WHEN the user signs up, <br>
 THEN they are led to a dashboard with the option to create a new resume. <br>
 WHEN the user logs in, <br>
 THEN they are led to a dashboard with a display of their past saved resumes along with the option to create a new resume. <br>
@@ -122,20 +136,14 @@ THEN that resume is downloaded once again. <br>
 WHEN the user logs out, <br>
 THEN their logout is successful and they are redirected to the homepage.
 
-## Deployed Application
-
-Heroku: [https://resumade.herokuapp.com/]
-
-Github Repository: [https://github.com/PeytonCast/ResuMade]
-
 ## Future Improvements
 
-* Add the functionality for a user to create a cover letter as well
-* Additional form features such as "Add Another" button
-* Increased security for form validations
-* Turn the app into a PWA
-* Refactor for neatness/readability
-* More error handling throughout
+- Add the functionality for a user to create a cover letter as well
+- Additional form features such as "Add Another" button
+- Increased security for form validations
+- Turn the app into a PWA
+- Refactor for neatness/readability
+- More error handling throughout
 
 ## Installation
 
@@ -146,6 +154,7 @@ npm run build
 npm run develop
 Go to http://localhost:3001
 ```
+
 OR follow the above Heroku deployed application link
 
 ## Usage
@@ -184,11 +193,11 @@ No tests are applicable to this project at this time.
 
 Collaborators:
 
- [Arthur Ong](https://github.com/odthientho),
- [Kathy Kang](https://github.com/KatSKang),
- [Madeleine Harris](https://github.com/miss-mad),
- [Melissa Stan](https://github.com/mstan19),
- [Peyton Castillo](https://github.com/PeytonCast)
+[Arthur Ong](https://github.com/odthientho),
+[Kathy Kang](https://github.com/KatSKang),
+[Madeleine Harris](https://github.com/miss-mad),
+[Melissa Stan](https://github.com/mstan19),
+[Peyton Castillo](https://github.com/PeytonCast)
 
 ## Questions
 
